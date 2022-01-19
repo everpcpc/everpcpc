@@ -1,11 +1,3 @@
 ![fishing](https://github.com/everpcpc/everpcpc/blob/master/fishing.png)
 
-<!--START_SECTION:waka-->
-```text
-Rust       ███████████████████████▒░░░░░░░░░░░░░░░░░   57.31 % 
-Python     ███████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   18.79 % 
-ERB        ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Markdown   █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-YAML       █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
-<!--END_SECTION:waka-->
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=everpcpc&layout=compact&langs_count=6)
